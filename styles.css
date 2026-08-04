@@ -35,16 +35,16 @@ a:hover {
 /* PANELS */
 
 .panel {
-  background: rgba(11, 8, 19, .85) !important;
-  color: #D7D0C9 !important;
-  border: 1px solid #2C2140 !important;
+  background: rgba(62, 77, 52, .5) !important;
+  color: #E8E2D4 !important;
+  border: 1px solid #5B4430 !important;
   border-radius: 10px !important;
 }
 
 /* MAIN CONTAINER */
 
 .container.main {
-background: rgba(22, 17, 33, 0.0);
+background: rgba(62, 77, 52, .5);
 border: none;
 box-shadow: none;
 border-radius: 5px; }
@@ -54,81 +54,91 @@ background: none; }
 /* NAVBAR */
 
 .topbar {
-background: #161121 !important;
-color: #edbe24 !important;
+background: #2F3A2A !important;
+color: #E8E2D4 !important;
 border: none !important;
 border-radius: 0px !important;  }
  
 .navbar {
-background: #161121 !important;
-color: #edbe24 !important;
+background: #2F3A2A !important;
+color: #E8E2D4 !important;
 border: none !important;
 border-radius: 0px !important; }
 
 .navbar li a:hover {
-background: #161121 !important;
-color: #e4a574 !important; }
+background: #2F3A2A !important;
+color: #E8E2D4 !important; }
 
 .top, .bottom, th {
-background: #161121 !important;
-color: #e4a574 !important;
+background: #2F3A2A !important;
+color: #E8E2D4 !important;
 border: none !important;
 border-radius: 0px !important; }
+
+.navbar-toggle {
+border: none !important;
+background: #2F3A2A !important;
+}
+
+.navbar-collapse {
+box-shadow: none !important;
+border-top: none !important;
+}
 
 /* Bookmark Bar */
 
 .breadcrumb {
-background: #161121 !important;
-color: #e4a574 !important;
+background: #2F3A2A !important;
+color: #E8E2D44 !important;
 border: none !important;
 border-radius: 0px !important;} 
 .breadcrumb .active {
-color: #e4a574; }
+color: #E8E2D4; }
 
 /* Comment Box */
 
 div#commentBox {
-background: #161121 !important;
+background: #2F3A2A !important;
 border: none !important;
 border-radius: 0px !important;
-color: #e4a574 !important;}
+color: #E8E2D4 !important;}
 
 /* TABLE HEADERS */
 
 .top,
 .bottom,
 th {
-  background: #2C2140 !important;
-  color: #C8A75A !important;
+  background: #2F3A2A !important;
+  color: #E8E2D4 !important;
 }
 
 .feature {
-background: 161121 !important;
-color: #e4a574 !important;
-border: 3px double #e4a574 !important;
+background: #3E4D34 !important;
+color: #E8E2D4 !important;
+border: 3px double #5B4430 !important;
 border-radius: 0px !important;  }
 
 div.left {
-background: #161121 !important;
-color: #e4a574 !important;
+background: #3E4D34 !important;
+color: #E8E2D4 !important;
 border: none !important;
 border-radius: 0px !important; }
 
 .table .left {
-background: #161121;
+background: #3E4D34;
 border-radius: 0px !important; }
 
 .inner-table .left {
-background: #161121 !important;
+background: #3E4D34 !important;
 border-radius: 0px !important;  }
 
 .inner-table .right {
-background: #161121 !important;
+background: #3E4D34 !important;
 border-radius: 0px !important; 
-color: #e4a574 !important; } 
+color: #E8E2D4 !important; } 
 
 .right_odd {
-background: #161121 !important; }
+background: #3E4D34 !important; }
 
 /* PROGRESS BARS */
 
@@ -155,15 +165,15 @@ background: #161121 !important; }
 /* CHAT */
 
 .s-chat-message:nth-child(odd) {
-  background: #120D1D !important;
+  background: #3E4D34 !important;
 }
 
 .s-chat-message:nth-child(even) {
-  background: #1A1428 !important;
+  background: #3E4D34 !important;
 }
 
 .s-chat-message {
-  color: #D7D0C9 !important;
+  color: #E8E2D4 !important;
 }
 
 /* BUTTONS */
@@ -181,7 +191,7 @@ a.btn.btn-default.button {
 /* SCROLLBAR */
 
 ::-webkit-scrollbar-track {
-  background: #0B0813;
+  background: #3E4D34;
 }
 
 ::-webkit-scrollbar-thumb {
