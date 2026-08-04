@@ -35,7 +35,7 @@ a:hover {
 /* PANELS */
 
 .panel {
-  background: rgba(62, 77, 52, 0.9) !important;
+  background: rgba(62, 77, 52, 0.7) !important;
   color: #E8E2D4 !important;
   border: 1px solid #5B4430 !important;
   border-radius: 10px !important;
@@ -44,7 +44,7 @@ a:hover {
 /* MAIN CONTAINER */
 
 .container.main {
-background: rgba(62, 77, 52, 0.9);
+background: rgba(62, 77, 52, 0.7);
 border: none;
 box-shadow: none;
 border-radius: 5px; }
