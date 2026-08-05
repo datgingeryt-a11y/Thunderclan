@@ -179,15 +179,15 @@ background: #3E4D34 !important; }
 
 a[href$="CAVEID"]>div.cave-grid>img {
 content: url('https://i.postimg.cc/PxG6pf5w/cropped-image.png')!important;
-width: 258px !important;
+width: 640px !important;
 height: auto !important; }
 a[href$="CAVEID"]>div.cave-grid>img {
 content: url('https://i.postimg.cc/mgJjJZM6/cropped-image-(2).png')!important; 
-width: 258px !important;
+width: 640px !important;
 height: auto !important; }
 a[href$="CAVEID"]>div.cave-grid>img {
 content: url('https://i.postimg.cc/5N9sFRb3/cropped-image-(1).png')!important;
-width: 258px !important;
+width: 640px !important;
 height: auto !important; }
 
 /* BUTTONS */
