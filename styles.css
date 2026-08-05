@@ -176,6 +176,24 @@ background: #3E4D34 !important; }
   color: #E8E2D4 !important;
 }
 
+div.cave-grid>img {
+content: url('https://static.lioden.com/images/items/Amusement/nestingbundle.png')!important;
+width: 75px;
+height: 75px; }
+
+a[href$="CAVEID"]>div.cave-grid>img {
+content: url('https://i.postimg.cc/nLGR6bkx/IMG-1868.png')!important;
+width: 258px !important;
+height: auto !important; }
+a[href$="CAVEID"]>div.cave-grid>img {
+content: url('https://i.postimg.cc/SNnPjPyQ/IMG-1866.png')!important; 
+width: 258px !important;
+height: auto !important; }
+a[href$="CAVEID"]>div.cave-grid>img {
+content: url('https://i.postimg.cc/jdBFfh5P/IMG-1867.png')!important;
+width: 258px !important;
+height: auto !important; }
+
 /* BUTTONS */
 
 input,
