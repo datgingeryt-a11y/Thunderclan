@@ -1,14 +1,3 @@
-/* FONTS - Import from Google Fonts */
- 
-@import url('<style>
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Henny+Penny&display=swap');
-</style>');
- 
-body {font-family: Cinzel;}
- 
-.topbar {font-family: Cinzel;}
- 
-.navbar {font-family: Cinzel;}
 
 /* BACKGROUND */
 
